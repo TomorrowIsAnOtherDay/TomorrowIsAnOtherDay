@@ -1,4 +1,5 @@
 我们是来自百度AIG-NLP的强化学习团队
+
 目前我们除了通过强化学习支持公司内外的业务之外，还深耕强化学习的前沿技术，开展的工作线条包括但不限于：
 
 - 高性能RL并行框架PARL的研发（https://github.com/PaddlePaddle/PARL, 2k star)
