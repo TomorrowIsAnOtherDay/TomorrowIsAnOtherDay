@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/logo-蓝黑.png" alt="PARL" width="200"/>
+<img src="img/logo-蓝黑.png" alt="PARL" width="250"/>
 </p>
 
 我们是来自百度的**PARL强化学习团队**
