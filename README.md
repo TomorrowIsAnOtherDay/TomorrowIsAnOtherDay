@@ -6,7 +6,7 @@
 
 团队除了支持公司内外的业务之外，还深耕前沿技术，开展的工作线条包括但不限于：
 
-- 高性能RL并行框架PARL的研发（https://github.com/PaddlePaddle/PARL, 3.0k star)
+- 高性能RL并行框架PARL的研发（https://github.com/PaddlePaddle/PARL, 3.2k star)
 - 参与业内的国际RL赛事（我们团队已经连续三年在NeurIPS RL 赛事中拿下冠军名次了）
 - 学术论文的投稿
 - 机器人控制（自动驾驶&无人机、四足机械狗控制）
